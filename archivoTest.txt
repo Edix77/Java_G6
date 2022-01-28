@@ -1,0 +1,42 @@
+Hola mundo desde git
+
+Comandos_Git
+
+clear - limpiar la terminal
+pwd - path o ruta donde nos encontramos
+cd - se sale al home
+cd .. - se devuelve una ruta mas atras
+cd nombreDeCarpeta - ingresa a una carpeta, debemos estar en la ruta padre
+ls - nos muestra las carpetas y archivos, pero no muestra los archivos ocultos
+ls -l - nos muestra el detalle de carpetas y archivos y su estado
+ls -la - nos muestra el detalle + los archivos ocultos
+ls -a - nos muestra los archivos ocultos sin detalles
+
+al listar:
+d - son carpetas
+l - enlace directo
+- son archivos
+
+-rw-r--r-- tiene que ve con los permisos
+RWX-La primera triada corresponde al nombre del usuario
+RWX-pertenece al grupo al 
+chmod para los archivos
+chmod -R PARA LAS CARPETAS
+
+git init -se ejecuta una sola vez-
+
+git add .
+
+git commit -m "mensaje de lo realizado"
+
+git remote add origin https://github.com/Edix77/Java_G6.git -se ejecuta una sola vez-
+
+git push -u origin master -para subir nuestro proyecto
+
+rm -rf -para eliminar una carpeta y todo el contenido (thanos)
+
+git clone -para hacer un clon del proyecto desde la web a nuestro pc
+
+git config --global user.name "Su nombre"
+
+git config --global user.email "mail"
