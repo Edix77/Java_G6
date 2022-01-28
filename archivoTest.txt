@@ -57,3 +57,5 @@ touch para crear archivos - por ejemplo
 estoy en la rama ejemplo
 
 estoy en la rama master
+
+git merge  + rama a mezclar- para mezclar
