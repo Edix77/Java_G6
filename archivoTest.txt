@@ -47,3 +47,13 @@ git config --global user.email "mail"
 git pull descarga los archivos que no tenia en mi pc pero si en la nube
 
 git status - para ver si tenemos algo que comitear
+
+git branch -para crear ramas
+
+git checkout -para ir a una rama creada
+
+touch para crear archivos - por ejemplo 
+
+estoy en la rama ejemplo
+
+estoy en la rama master
