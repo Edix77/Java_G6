@@ -59,3 +59,9 @@ estoy en la rama ejemplo
 estoy en la rama master
 
 git merge  + rama a mezclar- para mezclar
+
+git brach -d ejemplo
+
+git push origin: ejemplo - para eliminar del repositorio una rama (github)
+
+desde visual studio code
