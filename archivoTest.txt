@@ -17,6 +17,8 @@ d - son carpetas
 l - enlace directo
 - son archivos
 
+mkdir para crear una nueva carpeta
+
 -rw-r--r-- tiene que ve con los permisos
 RWX-La primera triada corresponde al nombre del usuario
 RWX-pertenece al grupo al 
@@ -25,13 +27,14 @@ chmod -R PARA LAS CARPETAS
 
 git init -se ejecuta una sola vez-
 
+------------------------------------------------------
 git add .
-
 git commit -m "mensaje de lo realizado"
-
+git push -u origin master -para subir nuestro proyecto
+-------------------------------------------------------
 git remote add origin https://github.com/Edix77/Java_G6.git -se ejecuta una sola vez-
 
-git push -u origin master -para subir nuestro proyecto
+
 
 rm -rf -para eliminar una carpeta y todo el contenido (thanos)
 
@@ -40,3 +43,7 @@ git clone -para hacer un clon del proyecto desde la web a nuestro pc
 git config --global user.name "Su nombre"
 
 git config --global user.email "mail"
+
+git pull descarga los archivos que no tenia en mi pc pero si en la nube
+
+git status - para ver si tenemos algo que comitear
